@@ -1,0 +1,7 @@
+name: SkillRatingDifficulty
+version: '${project.version}'
+main: net.justonedev.mc.plugins.skillratingdifficulty.SkillRatingDifficulty
+api-version: 1.20
+prefix: JustOneDeveloper's SkillRatingDifficulty
+authors: [ JustOneDeveloper ]
+description: A plugin that bases mob spawning and equipment (difficulty) on a player's equipment and skill rating
